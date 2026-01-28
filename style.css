@@ -3,6 +3,7 @@ body {
   font-family: "Pretendard Variable", Pretendard, sans-serif;
   font-weight: 900;
   min-height: 100svh;
+
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,6 +18,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
   text-align: center;
 }
 
@@ -24,12 +26,12 @@ body {
   font-size: 11vw;
   font-weight: 400;
   color: #000;
-  margin-bottom: 2vmin;
+  margin: 0;
 }
 
 .counter {
   font-size: 22vw;
   color: #000;
-  margin-top: 0;
+  margin: 0;
   line-height: 1;
 }
