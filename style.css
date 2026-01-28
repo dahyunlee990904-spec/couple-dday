@@ -1,28 +1,31 @@
 html, body {
-margin: 0;
-padding: 0;
-height: 100%;
-font-family: "Pretendard Variable", Pretendard, sans-serif;
-background: transparent;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
+  background: transparent;
 }
+
 body {
-display: flex;
-justify-content: center;
-align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 .card {
-text-align: center;
-padding: 24px 28px;
-border-radius: 16px;
-background: transparent;
+  text-align: center;
+  background: transparent;
 }
+
 .title {
-font-size: 16px;
-color: #000;
-margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #000;
+  margin-bottom: 8px;
 }
+
 .dday {
-font-size: 40px;
-font-weight: bold;
-color: #000;
+  font-size: 40px;
+  font-weight: 900;
+  color: #000;
 }
