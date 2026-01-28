@@ -19,7 +19,8 @@ body {
 }
 
 .content {
-  font-size: 10vw;
+  font-size: 5vw;
+  font-weight: 400;
   color: #000;
 }
 
