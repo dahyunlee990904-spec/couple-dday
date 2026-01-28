@@ -18,14 +18,14 @@ body {
 }
 
 .title {
-  font-size: 20px;
+  font-size: 5vmin;
   font-weight: 400;
   color: #000;
-  margin-bottom: 8px;
+  margin-bottom: 1.5vmin;
 }
 
 .dday {
-  font-size: 40px;
+  font-size: 10vmin;
   font-weight: 900;
   color: #000;
 }
