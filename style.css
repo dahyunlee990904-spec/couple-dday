@@ -1,8 +1,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  height: 100%;
-  font-family: Arial, sans-serif;
+  height: 100vh;
+  font-family: "Pretendard Variable", Pretendard, sans-serif;
   background: transparent;
 }
 
@@ -21,12 +21,14 @@ body {
 
 .title {
   font-size: 16px;
+  font-weight: 600;
   color: #333;
   margin-bottom: 10px;
 }
 
 .dday {
-  font-size: 40px;
-  font-weight: bold;
+  font-size: 42px;
+  font-weight: 900;
   color: #ff4d6d;
+  line-height: 1.1;
 }
