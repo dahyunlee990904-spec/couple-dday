@@ -22,7 +22,8 @@ body {
 
 .title {
   font-size: 25px;
-  color: #5A5A5A;
+    font-weight: 450;
+  color: #1D1D1D;
   margin-bottom: 8px;
 }
 
