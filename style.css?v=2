@@ -1,38 +1,32 @@
 html, body {
   margin: 0;
-  height: 100vh;
+  padding: 0;
+  height: 100%;
   font-family: "Pretendard Variable", Pretendard, sans-serif;
   font-weight: 900;
   background: transparent;
 }
 
 body {
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .card {
-  height: 100%;
-  width: 100%;
-  padding: 3% 5%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  box-sizing: border-box;
+  text-align: center;
+  padding: 24px 28px;
   background: transparent;
 }
 
 .title {
-  font-size: 10vw;
+  font-size: 32px;
   color: #000;
+  margin-bottom: 8px;
 }
 
 .dday {
-  font-size: 22vw;
+  font-size: 56px;
   color: #000;
-  flex: 1;
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
 }
