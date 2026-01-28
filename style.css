@@ -18,14 +18,15 @@ body {
 }
 
 .title {
-  font-size: 5vmin;
+  font-size: clamp(18px, 3vw, 48px);
   font-weight: 400;
   color: #000;
-  margin-bottom: 1.5vmin;
+  margin-bottom: 1.2vmin;
 }
 
 .dday {
-  font-size: 10vmin;
+  font-size: clamp(36px, 8vw, 160px);
   font-weight: 900;
   color: #000;
+  line-height: 1.1;
 }
